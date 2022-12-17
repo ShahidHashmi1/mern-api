@@ -1,7 +1,3 @@
 # <mern-api>
 
-## Mern Api
-
-<br>
-
-## Description
+## MERN API - Book Search
